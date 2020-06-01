@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.5",
+  "id": "bfc62070-a3cc-11ea-9966-0968e377a567",
+  "version": "0.0.1",
+  "packageName": "firstteamsapptoazureibm",
+  "developer": {
+    "name": "IBM",
+    "websiteUrl": "https://firstteamsapptoazureibm.azurewebsites.net",
+    "privacyUrl": "https://firstteamsapptoazureibm.azurewebsites.net/privacy.html",
+    "termsOfUseUrl": "https://firstteamsapptoazureibm.azurewebsites.net/tou.html"
+  },
+  "name": {
+    "short": "firstteamsapptoazureIBM",
+    "full": "firstteamsapptoazureIBM"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "firstteamsapptoazureibm.azurewebsites.net"
+  ]
+}
